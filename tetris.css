@@ -1,0 +1,4 @@
+
+body { display: flex; justify-content: center; align-items: center; height: 100vh; background: #333; color: white; }
+canvas { background: black; }
+    
